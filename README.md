@@ -8,5 +8,5 @@ aria2.sh
 - 使用方法: https://doub.io/shell-jc4/
 - 下载安装:
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/gitby2018/Linux-Bash/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
 ```
