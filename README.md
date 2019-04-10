@@ -1,6 +1,14 @@
 # Linux-
 修改别人的私人用脚本
 
+# 服务器设置
+superupdate.sh
+- 脚本说明：一键为服务器换源
+-下载安装：
+```
+wget -qO- --no-check-certificate https://raw.githubusercontent.com/gitby2018/Linux-Bash/master/superupdate.sh && chmod +x superupdate.sh| bash
+```
+
 # 下载
 aria2.sh
 - 脚本说明: Aria2 一键安装管理脚本（修改自逗比的一键安装aria2脚本，修改了里面的目录等。）
@@ -10,3 +18,4 @@ aria2.sh
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/gitby2018/Linux-Bash/master/aria2.sh && chmod +x aria2.sh && bash aria2.sh
 ```
+
