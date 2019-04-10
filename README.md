@@ -6,7 +6,8 @@ superupdate.sh
 - 脚本说明：一键为服务器换源
 -下载安装：
 ```
-wget -qO- -N --no-check-certificate https://raw.githubusercontent.com/gitby2018/Linux-Bash/master/superupdate.sh && chmod +x superupdate.sh && bash superupdate.sh
+wget -qO- https://raw.githubusercontent.com/gitby2018/Linux-Bash/master/superupdate.sh | bash
+
 ```
 
 # 下载
